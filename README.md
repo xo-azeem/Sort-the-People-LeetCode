@@ -24,7 +24,7 @@ My Solution Analysis:
 
 <div align = "center">
 
-  ![image](https://github.com/user-attachments/assets/a06648f3-d37f-45d5-9149-d43c936a3757)
+  ![image](https://github.com/user-attachments/assets/cb43b3e0-5784-4a2b-a63d-a101a55cce7f)
 
   Time complexity: O(n log n).</br>Space complexity: O(n).
 </div>
